@@ -25,4 +25,5 @@ def sravnenie():
             print('Спасибо, что играли в числовую угадайку. Еще увидимся...')
             break
 
-sravnenie()
+if __name__ == '__main__':
+    sravnenie()
